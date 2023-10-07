@@ -1,5 +1,7 @@
 # Tasca M4 T01
 
+Utilitzant les biblioteques de visualització de dades Matplotlib o Seaborn, realitza els següents exercicis.
+
 ### Exercici 1
 ***
 Descarrega el dataset adjunt preu lloguer per trimestre i barri.csv extret de la web OpenDataBCN i resumeix-lo estadísticament i gràficament.
